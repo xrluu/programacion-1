@@ -165,3 +165,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#este programa es un juego de blackjack (21) en la consola. El jugador comienza con un saldo inicial y puede apostar en cada ronda. El juego sigue las reglas estándar del blackjack, incluyendo la opción de pedir cartas o plantarse, y la banca juega automáticamente siguiendo sus propias reglas. Al final de cada ronda, se muestra el resultado y el saldo actualizado del jugador.

@@ -40,3 +40,5 @@ if not faltantes:
 else:
     print("La contraseña no es segura")
     print("Le falta: " + ", ".join(faltantes) + ".")
+
+#Este programa ayuda a los usuarios a crear contraseñas seguras al verificar si cumplen con ciertos requisitos de seguridad. Si la contraseña no cumple con alguno de los requisitos, el programa informa al usuario qué elementos faltan para que la contraseña sea considerada segura.
